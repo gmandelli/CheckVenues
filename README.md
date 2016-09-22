@@ -1,6 +1,8 @@
 CheckVenues!
 ------------
 
+DEPRECATED
+
 Version: 0.1b
 
 Features
